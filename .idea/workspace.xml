@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a697306f-521b-4566-ac70-1ae234ed4ed4" name="Changes" comment="add Snack4">
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/Snack5.java" afterDir="false" />
+    <list default="true" id="a697306f-521b-4566-ac70-1ae234ed4ed4" name="Changes" comment="add Snack5">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/Snack6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,22 +55,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/classe 7 corso java/java-snacks/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Snack5">
+  <component name="RunManager" selected="Application.Snack6">
     <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.Snack1" />
-      <module name="java-snacks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.lessons.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Snack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lessons.java.Snack2" />
       <module name="java-snacks" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Snack6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.Snack6" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack6" />
         <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack1" />
-        <item itemvalue="Application.Snack2" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697723870861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Snack5">
+      <option name="closed" value="true" />
+      <created>1697727016639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697727016639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +188,22 @@
     <MESSAGE value="add Snack2" />
     <MESSAGE value="add Snack3" />
     <MESSAGE value="add Snack4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Snack4" />
+    <MESSAGE value="add Snack5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Snack5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/lessons/java/Snack6.java</url>
+          <line>5</line>
+          <properties class="org.lessons.java.Snack6" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
