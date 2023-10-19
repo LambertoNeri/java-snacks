@@ -15,17 +15,19 @@ public class Snack1 {
         boolean breaker = false;
 
         //creo il ciclo while per eseguire la richiesta
-        while(breaker == false) {
+        while(!breaker) {
+            //chiedo all'utente di inserire un numero
             System.out.println("Perfavore inserisci un numero se il numero inserito sarà dispari esso verrà corretto in pari, la richiesta si fermerà solo se il numero inserito è negativo");
             num = scan.nextInt();
             if(num < 0 ) {
                 System.out.println("ti sei permesso di inserire un numero negativo?! Buonanotte...");
+                //attivo il breaker
                 breaker = true;
             } else {
                 if( num % 2 == 0 ) {
                     System.out.println("il numero inserito è pari, sai mi piaci sempre di piu... " + num );
-                } else if (num == 0) {
-                    System.out.println("il numero inserito è zero" );
+//                } else if (num == 0) {
+//                    System.out.println("il numero inserito è zero" );
                 } else {
                     System.out.println("il numero inserito è: " + num + "!! e "+num+" è un numero dispari, correggo subito..."+ (num + 1));
                 }
