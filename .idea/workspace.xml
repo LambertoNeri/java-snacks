@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a697306f-521b-4566-ac70-1ae234ed4ed4" name="Changes" comment="add structure and Snack1">
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/Snack2.java" afterDir="false" />
+    <list default="true" id="a697306f-521b-4566-ac70-1ae234ed4ed4" name="Changes" comment="add Snack2">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/Snack3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Snack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Snack1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/classe 7 corso java/java-snacks/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Snack1">
+  <component name="RunManager" selected="Application.Snack3">
     <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.Snack1" />
       <module name="java-snacks" />
@@ -83,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Snack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.Snack3" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack1" />
         <item itemvalue="Application.Snack2" />
       </list>
@@ -107,11 +120,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697718846730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Snack2">
+      <option name="closed" value="true" />
+      <created>1697720316803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697720316803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add structure and Snack1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add structure and Snack1" />
+    <MESSAGE value="add Snack2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Snack2" />
   </component>
 </project>
